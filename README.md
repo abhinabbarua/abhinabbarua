@@ -11,6 +11,8 @@
 
 ___
 
+![icons8-information](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/ecd97def-1116-4f74-9bfb-f7ba411ecc52) I am a graduate in Msc. IT.
+
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
 <!--
 **abhinabbarua/abhinabbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
