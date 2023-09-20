@@ -1,4 +1,13 @@
-### Hi there 👋, I'm Abhinab Barua
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/abhinabbarua/abhinabbarua/assets/50176281/495fbc40-662f-4a3a-9d63-9d908db0fc76" alt=”my banner”>
+
+</p>
+
+<h3 align="center">
+ Hi there 👋, I'm Abhinab Barua
+
+</h3>
 
 <!--
 **abhinabbarua/abhinabbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
