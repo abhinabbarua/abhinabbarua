@@ -10,6 +10,7 @@
 </h3>
 
 ___
+![award](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/ffe650e7-b692-4ed0-9445-e724e416d7c6)I am a graduate in Msc IT.
 
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
 <!--
