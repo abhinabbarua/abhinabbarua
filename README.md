@@ -10,8 +10,8 @@
 </h3>
 
 ___
-<img src="![award](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/0594ea53-9c84-4649-8382-2e1a5fe3acf6)
-" alt="Award Icon" width="16" height="16">I am a graduate in Msc IT.
+<img src=![award](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/0594ea53-9c84-4649-8382-2e1a5fe3acf6)
+ alt="Award Icon" width="16" height="16">I am a graduate in Msc IT.
 
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
 <!--
