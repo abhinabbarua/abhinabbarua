@@ -10,8 +10,7 @@
 </h3>
 
 ___
-
-![icons8-information](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/ecd97def-1116-4f74-9bfb-f7ba411ecc52) I am a graduate in Msc. IT.
+![award](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/eb3e0d0c-fb1c-468d-b3b5-0dadc514b1d5) I am a graduate in Msc. IT.
 
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
 <!--
