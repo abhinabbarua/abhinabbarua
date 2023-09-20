@@ -11,7 +11,7 @@
 
 ___
 
-![award](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/b8bfff76-2344-4dee-87d4-4e1ff4e0fee3 =16*16)I am a graduate in Msc IT.
+![award](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/b8bfff76-2344-4dee-87d4-4e1ff4e0fee3 =16*16)I am a graduate in Msc IT. </n>
 
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
 <!--
