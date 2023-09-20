@@ -11,6 +11,7 @@
 
 ___
 
+<img src="https://github.com/abhinabbarua/abhinabbarua/assets/50176281/5d156b77-1993-4c36-8c65-9b88c8e8f667" width="16" height="16">
 I am a graduate in Msc IT.
 
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
