@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://github.com/abhinabbarua/abhinabbarua/assets/50176281/495fbc40-662f-4a3a-9d63-9d908db0fc76" alt=”my banner”>
+![Banner](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/0818286b-b2f7-48fe-b937-3296adc3ef09)
 
 </p>
 
