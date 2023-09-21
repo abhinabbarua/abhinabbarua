@@ -26,7 +26,6 @@ I am a graduate in Msc IT.
 
 </br>
 </br>
-</br>
 
 ### Languages & Tools:
 
