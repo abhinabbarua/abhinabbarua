@@ -16,8 +16,6 @@ I am a graduate in Msc IT.
 
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
 
-</br>
-
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abhinab-b-6a413780/" target="_blank"><img align="left" src="images/linkedin.svg" alt="Abhinab | LinkedIn" width="28px"/></a>
