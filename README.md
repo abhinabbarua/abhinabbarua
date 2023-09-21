@@ -25,8 +25,7 @@ I am a graduate in Msc IT.
 <a href="https://public.tableau.com/app/profile/abhinab.barua" target="_blank"><img align="left" src="images/tableau.svg" alt="Abhinab | Tableau" width="28px"/></a>
 
 </br>
-</n>
-</n>
+
 ### Languages & Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
