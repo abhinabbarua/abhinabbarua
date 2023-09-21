@@ -17,7 +17,6 @@ I am a graduate in Msc IT.
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
 
 </br>
-</br>
 
 ### 🤝 Connect with me:
 
@@ -27,6 +26,7 @@ I am a graduate in Msc IT.
 <a href="https://github.com/abhinabbarua" target="_blank"><img align="left" src="images/github.svg" alt="Abhinab | Github" width="28px"/></a>
 <a href="https://public.tableau.com/app/profile/abhinab.barua" target="_blank"><img align="left" src="images/tableau.svg" alt="Abhinab | Tableau" width="28px"/></a>
 
+</br>
 </br>
 </br>
 
