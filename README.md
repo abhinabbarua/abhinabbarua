@@ -19,6 +19,11 @@ I am a graduate in Msc IT.
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abhinab-b-6a413780/" target="_blank"><img align="left" src="images/linkedin.svg" alt="Abhinab | LinkedIn" width="28px"/></a>
+<a href="abhinabbarua@gmail.com" target="_blank"><img align="left" src="images/gmail.svg" alt="Abhinab | Gmail" width="28px"/></a>
+<a href="https://www.hackerrank.com/abhinabbarua" target="_blank"><img align="left" src="images/hackerrank.svg" alt="Abhinab | Hackerrank" width="28px"/></a>
+<a href="https://github.com/abhinabbarua" target="_blank"><img align="left" src="images/github.svg" alt="Abhinab | Github" width="28px"/></a>
+
+</br>
 
 <!--
 **abhinabbarua/abhinabbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
