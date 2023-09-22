@@ -46,6 +46,10 @@ I am a graduate in Msc IT.
 </br>
 </br>
 
+### Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!--
 **abhinabbarua/abhinabbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
