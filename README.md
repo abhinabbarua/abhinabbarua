@@ -47,7 +47,7 @@ I am a graduate in Msc IT.
 
 ### Github Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhinabbarua&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Abhinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=tokyonight-duo)
  
 </br>
 
