@@ -55,7 +55,7 @@ I am a graduate in Msc IT.
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhinabbarua&theme=tokyonight-duo&border_radius=2&s=200&height=400" alt="GitHub Streak" width="48%" /></a>
 </p>
 
-<img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+<img height=200 width=200 src="https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=tokyonight-duo" alt="Abhinab Github stats" />
 </a>
 
 </br>
