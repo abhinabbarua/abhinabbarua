@@ -60,7 +60,7 @@ I am a graduate in Msc IT.
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=abhinabbarua&color=dc143c)
+![](https://komarev.com/ghpvc/?username=abhinabbarua&color=032c8c)
 
 <!--
 **abhinabbarua/abhinabbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
