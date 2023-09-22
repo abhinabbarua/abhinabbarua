@@ -48,15 +48,9 @@ I am a graduate in Msc IT.
 
 ### Github Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex: 1; width: 48%; margin-right: 2%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=tokyonight" alt="Abhinab's GitHub stats" width="300" height="200">
-    </div>
-    <div style="flex: 1; width: 48%;">
-        <a href="https://git.io/streak-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinabbarua&theme=tokyonight" alt="GitHub Streak" width="300" height="200">
-        </a>
-    </div>
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=tokyonight" alt="Abhinab's GitHub stats" style="width: 50%; height: 200px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinabbarua&theme=tokyonight" alt="GitHub Streak" style="width: 50%; height: 200px;">
 </div>
 
 
