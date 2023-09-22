@@ -48,10 +48,10 @@ I am a graduate in Msc IT.
 
 ### Github Stats
 
-<div>
+
 ![Abhinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=cobalt)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinabbarua&theme=cobalt)](https://git.io/streak-stats)
-</div>
+
 
 <!--
 **abhinabbarua/abhinabbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
