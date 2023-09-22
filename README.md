@@ -47,8 +47,7 @@ I am a graduate in Msc IT.
 
 ### Github Stats
 
-<img height=200 width=200 src="https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=tokyonight" alt="Abhinab's Language stats" />
-</a>
+![Abhinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=radical)
 
 </br>
 
