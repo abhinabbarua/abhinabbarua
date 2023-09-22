@@ -50,11 +50,10 @@ I am a graduate in Msc IT.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=tokyonight" alt="Abhinab's GitHub Stats" width="400" height="200">
+      ![Abhinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinab&show_icons=true&theme=radical)
     </td>
     <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinabbarua&theme=tokyonight" alt="GitHub Streak" width="400" height="200">
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinabbarua&theme=tokyonight-duo)](https://git.io/streak-stats)
       </a>
     </td>
   </tr>
