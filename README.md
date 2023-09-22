@@ -47,7 +47,7 @@ I am a graduate in Msc IT.
 
 ### Github Stats
 
-![Abhinab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinabbarua&show_icons=true&theme=tokyonight-duo)
+![](https://github-readme-stats.vercel.app/api?username=abhinabbarua&theme=tokyonight-duo)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinabbarua&theme=tokyonight-duo&border_radius=2&card_width=300)](https://git.io/streak-stats)
 
 </br>
