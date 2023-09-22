@@ -44,7 +44,6 @@ I am a graduate in Msc IT.
 </div>
 
 </br>
-</br>
 
 ### Github Stats
 
