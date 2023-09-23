@@ -56,7 +56,7 @@ I am a graduate in Msc IT.
 
 </br>
 
-<img src="https://github.com/abhinabbarua/abhinabbarua/blob/main/images/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Your Image" width="800" height="400">
+<img src="https://github.com/abhinabbarua/abhinabbarua/blob/main/images/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Your Image" width="800" height="550">
 <img src="https://github.com/abhinabbarua/abhinabbarua/blob/main/images/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Your Image" width="800" height="30">
 
 <!--
