@@ -56,7 +56,7 @@ I am a graduate in Msc IT.
 
 </br>
 
-![](https://github.com/abhinabbarua/abhinabbarua/blob/main/images/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
+![](https://github.com/abhinabbarua/abhinabbarua/blob/main/images/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif&s=200)
 
 <!--
 **abhinabbarua/abhinabbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
