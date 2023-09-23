@@ -54,6 +54,10 @@ I am a graduate in Msc IT.
 
 ![](https://komarev.com/ghpvc/?username=abhinabbarua&color=032c8c)
 
+</br>
+
+![](https://github.com/abhinabbarua/abhinabbarua/blob/main/images/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif)
+
 <!--
 **abhinabbarua/abhinabbarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
