@@ -51,7 +51,7 @@
 
 </br>
 
-![](https://komarev.com/ghpvc/?username=abhinabbarua&color=green&width=1000)
+![](https://komarev.com/ghpvc/?username=abhinabbarua)
 
 </br>
 
