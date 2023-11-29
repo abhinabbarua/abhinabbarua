@@ -47,7 +47,7 @@
 ### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=abhinabbarua&theme=tokyonight-duo)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhinabbarua&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinabbarua&theme=tokyonight-duo&card_width=400)](https://git.io/streak-stats)
 
 </br>
 
