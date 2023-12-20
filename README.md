@@ -17,7 +17,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="www.linkedin.com/in/abhinab-b-1013702a6" target="_blank"><img align="left" src="images/linkedin.svg" alt="Abhinab | LinkedIn" width="28px"/></a>
+<a href="www.linkedin.com/in/abhinab-b-1013702a6/" target="_blank"><img align="left" src="images/linkedin.svg" alt="Abhinab | LinkedIn" width="28px"/></a>
 <a href="mailto:abhinabbarua@gmail.com" target="_blank"><img align="left" src="images/gmail.svg" alt="Abhinab | Gmail" width="28px"/></a>
 <a href="https://www.hackerrank.com/abhinabbarua" target="_blank"><img align="left" src="images/hackerrank.svg" alt="Abhinab | Hackerrank" width="28px"/></a>
 <a href="https://github.com/abhinabbarua" target="_blank"><img align="left" src="images/github.svg" alt="Abhinab | Github" width="28px"/></a>
