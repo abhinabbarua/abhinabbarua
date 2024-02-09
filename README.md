@@ -6,6 +6,8 @@
 
 <p align="center" style="font-size: 18px;"><strong>Aspiring Data Scientist | ML Enthusiast</strong></p>
 
+</br>
+
 💻 Right now I am learning more about Machine Learning & Neural Networks to enhance my data skills.
 
 ### 🤝 Connect with me:
