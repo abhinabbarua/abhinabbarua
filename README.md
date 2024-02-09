@@ -1,6 +1,6 @@
 
 
-<h3 align="center">
+<h3 align="center" style="font-size: 24px;">
  Hi there 👋, I'm Abhinab Barua
 
 </h3>
