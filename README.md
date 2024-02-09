@@ -1,8 +1,4 @@
-<p align=”center”>
 
-![Banner](https://github.com/abhinabbarua/abhinabbarua/assets/50176281/0818286b-b2f7-48fe-b937-3296adc3ef09)
-
-</p>
 
 <h3 align="center">
  Hi there 👋, I'm Abhinab Barua
